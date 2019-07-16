@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Things {
+public class Things {
     public static func doing() {
         print("Things doing...")
     }
